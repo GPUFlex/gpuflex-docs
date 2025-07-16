@@ -1,17 +1,24 @@
 # Table of contents
 
-* [Welcome](README.md)
+## Overview
 
-## Getting Started
+* [What is GPUFlex?](README.md)
+* [Key Concepts](overview/publish-your-docs.md)
+* [Why Decentralized GPU Training?](overview/why-decentralized-gpu-training.md)
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+## Architecture
 
-## Basics
+* [System Architecture](architecture/editor.md)
+* [Training Workflow](architecture/markdown.md)
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+## Core Components
+
+* [Consumer Role](core-components/editor.md)
+* [Sharding Module](core-components/editor-1.md)
+* [Worker Node](core-components/integrations.md)
+* [Dispatcher](core-components/integrations-1.md)
+* [Aggregator Module](core-components/integrations-2.md)
+
+## Roadmap
+
+* [Global Vision](roadmap/editor.md)

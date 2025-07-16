@@ -1,15 +1,12 @@
----
-icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
-coverY: 0
----
+# What is GPUFlex?
 
-# Welcome
+### The Vision and Problem
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+AI researchers and developers face a growing shortage of affordable GPU computing power. Training advanced neural networks requires significant GPU resources, yet accessing those GPUs is often prohibitively expensive – most organizations end up renting cloud GPU instances because buying their own hardware is too costly . Meanwhile, vast numbers of GPUs sit idle or underutilized in gaming PCs, offices, and data centers worldwide – nearly _90% of consumer GPU potential remains untapped_ . This mismatch between soaring demand and wasted supply creates a huge opportunity: by unlocking dormant GPUs, we can drastically lower the cost of AI computation and broaden access to model training.
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+### GPUFlex’s Solution
 
-### Jump right in
+GPUFlex is a decentralized GPU computing network designed to tap into that underused hardware and make AI model training cheaper, faster, and more accessible. Instead of relying on a single cloud vendor, GPUFlex links together a global community of GPU owners who offer their spare computing capacity to users needing large-scale training. By aggregating this “long tail” of idle GPUs, GPUFlex creates a virtual, distributed computer for AI. This approach can deliver compute power at a fraction of traditional cloud costs – in fact, one decentralized GPU platform demonstrated model training at about _one-tenth the cost_ of mainstream cloud services .\
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Create your first site</td><td></td><td></td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+
+In GPUFlex’s model, anyone with a capable GPU can join the network and earn rewards for contributing compute. At the same time, AI developers can run training jobs on dozens or hundreds of distributed GPUs without buying any hardware outright. The network’s protocols coordinate these contributions to ensure tasks run efficiently across many nodes. The result is a community-owned GPU cloud: _powered by people, not corporations_, it expands access to ML compute and puts the community “in charge” of the infrastructure . By decentralizing GPU power, GPUFlex aims to democratize AI development – breaking the monopoly of big cloud providers and enabling innovation without prohibitive costs or gatekeepers .
