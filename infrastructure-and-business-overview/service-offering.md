@@ -1,0 +1,14 @@
+# Service Offering
+
+Our business will focus exclusively on providing cloud compute services, not on selling physical hardware as for now. Here’s what this means for the business model:
+
+## No Retail Hardware Business
+
+We will not manufacture or retail any GPUs, servers, or appliances to customers. All our efforts center on the platform and service experience – essentially, we are positioning as a cloud provider/marketplace, not an OEM hardware company. Approach of selling “GPU solutions from laptops to large on-prem clusters” like LambdaLabs does alongside cloud has its merits for revenue diversification, but it also brings complexities (inventory, logistics, support for physical products). At present, we choose to avoid these to remain agile. By not selling hardware, we eliminate potential conflicts of interest with our hosting providers (in fact, some of those providers could themselves be hardware resellers or enthusiasts). This encourages more third-party hosts to join our platform rather than viewing us as competition. Our focus can then be on developing superior software infrastructure – the matchmaking system, customer support, and features that improve cloud usage.
+
+## Compute-Platform Focus and Partnerships
+
+Concentrating on compute services and AI infrastructure means we can channel all resources into optimizing the cloud platform – e.g. building better scheduling algorithms, user-friendly dashboards, and integrations (for machine learning frameworks, etc.). We’ll provide features like one-click deployment of environments (notebooks, containers), job scheduling, data storage solutions, and possibly managed clusters for enterprise users. Any user – from an AI researcher to a startup – should find it straightforward to rent GPUs on demand . For users who do need hardware on-premise, instead of selling our own, we might partner with existing hardware vendors for referrals, so that we stay asset-light. Our business model’s revenue will come from usage fees on the compute rental (and any value-added services like storage or premium support), not from hardware sales margins. This clarity helps us align our success with our users’ consumption of compute power, reinforcing our incentive to provide the best cloud experience possible.\
+
+
+We aim to be a pure-play cloud platform, ensuring our cloud service gets 100% of our attention and innovation. This should help us stay ahead in features and customer experience for cloud users, rather than splitting focus. It also fits well with our earlier decisions: by not selling hardware, we avoid competing with our own supply-side (hosts) and instead empower them – many hardware owners can plug into our marketplace to monetize their rigs, while we concentrate on bringing them customers and coordinating service. In summary, our business will make money by renting GPUs, not by selling them, which aligns every part of the company toward improving that rental ecosystem.

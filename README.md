@@ -10,3 +10,7 @@ GPUFlex is a decentralized GPU computing network designed to tap into that under
 
 
 In GPUFlex’s model, anyone with a capable GPU can join the network and earn rewards for contributing compute. At the same time, AI developers can run training jobs on dozens or hundreds of distributed GPUs without buying any hardware outright. The network’s protocols coordinate these contributions to ensure tasks run efficiently across many nodes. The result is a community-owned GPU cloud: _powered by people, not corporations_, it expands access to ML compute and puts the community “in charge” of the infrastructure . By decentralizing GPU power, GPUFlex aims to democratize AI development – breaking the monopoly of big cloud providers and enabling innovation without prohibitive costs or gatekeepers .
+
+
+
+We propose a hybrid GPU cloud platform that combines the features of  decentralized marketplace and managed infrastructure. The goal is to deliver cost-efficient, highly scalable, and controlled AI compute services by merging these two approaches. This model will leverage a global network of user-provided hardware while maintaining a smaller core of platform-owned servers for reliability and oversight. By blending these strategies, we aim to offer competitive pricing, broad hardware variety, and robust performance – effectively taking the best of both worlds.
